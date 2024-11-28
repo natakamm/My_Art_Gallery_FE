@@ -1,0 +1,8 @@
+.glow {
+  background-color: rgb(19, 220, 255);
+  &:hover {
+    outline: 1px solid #f3f4f6; // Tailwind's gray-100 color (#f3f4f6)
+    outline-offset: 0;
+    background-color: rgb(48, 199, 226);
+  }
+}
