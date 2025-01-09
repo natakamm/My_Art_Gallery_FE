@@ -1,5 +1,11 @@
+import MovingScreen from "../components/pages/main/home/MovingScreen";
+
 const Homepage = () => {
-  return <></>;
+  return (
+    <>
+      <MovingScreen />
+    </>
+  );
 };
 
 export default Homepage;

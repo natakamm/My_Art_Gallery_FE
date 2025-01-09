@@ -1,0 +1,73 @@
+.cloud {
+  position: absolute;
+  width: 162px;
+  height: 55px;
+  overflow: hidden;
+}
+
+.cloud_big {
+  top: 10px;
+  transform: scale(1.4);
+}
+
+.cloud_small {
+  top: 70px;
+  transform: scale(1);
+}
+
+.circle {
+  position: absolute;
+  border-radius: 50%;
+  background: #ffffff;
+}
+
+.circle_c0 {
+  width: 32px;
+  height: 32px;
+  bottom: -15px;
+}
+
+.circle_c1 {
+  width: 35px;
+  height: 35px;
+  left: 20px;
+  bottom: 0;
+}
+
+.circle_c2 {
+  width: 25px;
+  height: 25px;
+  left: 48px;
+  bottom: 15px;
+}
+.circle_c3 {
+  width: 35px;
+  height: 35px;
+  left: 65px;
+  bottom: 20px;
+}
+.circle_c4 {
+  width: 25px;
+  height: 25px;
+  left: 94px;
+  bottom: 16px;
+}
+.circle_c5 {
+  width: 30px;
+  height: 30px;
+  left: 110px;
+  bottom: -5px;
+}
+.circle_c6 {
+  width: 30px;
+  height: 30px;
+  left: 132px;
+  bottom: -15px;
+}
+.circle_c7 {
+  width: 90px;
+  height: 90px;
+  left: 30px;
+  bottom: -55px;
+  background: #fff;
+}
